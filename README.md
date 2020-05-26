@@ -1,0 +1,1 @@
+The webpage was constructed using non-semantic elements. Nearly all elements were inside of div containers and all images were lacking alt text. I renamed all elements into semantic elements, added alt text, cleaned up the code, and added a title to the webpage that was cohesive with the page itself.
